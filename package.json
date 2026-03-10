@@ -1,10 +1,8 @@
 {
   "name": "afrirobot-react",
-  
   "engines": {
     "node": "24.x"
   },
-
   "version": "1.0.0",
   "description": "Afrirobot React Application",
   "private": true,
