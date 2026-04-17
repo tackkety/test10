@@ -42,12 +42,12 @@ export const servicePricing = {
                     { 
                         name: 'Monthly Plan', 
                         price: 700, 
-                        description: 'Billed Half, Half After Month.' 
+                        description: '' 
                     },
                     { 
                         name: 'Yearly Plan', 
                         price: 6000, 
-                        description: '20% off billed annually.' 
+                        description: '' 
                     }
                 ]
             }
