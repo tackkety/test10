@@ -252,7 +252,7 @@ span {
 .social-media a:hover {
     background: var(--main-color);
     color: var(--second-bg-color);
-    box-shadow: 0 0 1rem var(--main-color);
+    
 }
 
 .btn {
@@ -260,7 +260,7 @@ span {
     padding: 1rem 2.8rem;
     background: var(--main-color);
     border-radius: 4rem;
-    box-shadow: 0 0 1rem var(--main-color);
+    
     font-size: 1.6rem;
     color: var(--second-bg-color);
     letter-spacing: .1rem;
@@ -1065,7 +1065,7 @@ span {
 .portfolio-container .portfolio-box {
     position: relative;
     border-radius: 2rem;
-    box-shadow: 0 0 1rem var(--bg-color);
+    
     overflow: hidden;
     display: flex;
 }
@@ -1543,7 +1543,7 @@ select {
 .form-group select:focus {
     outline: none;
     border-color: var(--main-color);
-    box-shadow: 0 0 10px rgba(12, 204, 255, 0.2);
+    
 }
 
 .form-group textarea {
@@ -1569,7 +1569,7 @@ select {
 .submit-order-btn:hover {
     background: #00b8e6;
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(12, 204, 255, 0.3);
+    
 }
 
 /* Modal Overlay */
@@ -1653,7 +1653,7 @@ select {
 
 .services-box .btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(12, 204, 255, 0.3);
+    
 }
 
 
@@ -1762,7 +1762,7 @@ select {
 .form-group select:focus {
     outline: none;
     border-color: var(--main-color);
-    box-shadow: 0 0 10px rgba(12, 204, 255, 0.2);
+    
 }
 
 .urgency-levels {
@@ -1801,7 +1801,7 @@ select {
 .submit-order-btn:hover {
     background: #00b8e6;
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(12, 204, 255, 0.3);
+    
 }
 
 /* Enhanced Service Box Styles */
@@ -1841,7 +1841,7 @@ select {
 .services-box:hover {
     border-color: var(--main-color);
     transform: translateY(-10px);
-    box-shadow: 0 20px 40px rgba(12, 204, 255, 0.2);
+    
 }
 
 .services-box i {
@@ -1898,7 +1898,7 @@ select {
 
 .services-box .btn:hover {
     transform: translateY(-3px);
-    box-shadow: 0 10px 20px rgba(12, 204, 255, 0.3);
+    
 }
 
 /* Mobile Responsive Styles for Modal */
@@ -2423,7 +2423,7 @@ select {
 
 .skill-category:hover {
     transform: translateY(-10px);
-    box-shadow: 0 20px 40px rgba(0, 204, 255, 0.15);
+    
     border-color: var(--main-color);
 }
 
@@ -2846,7 +2846,7 @@ select {
 
 .project-item:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(12, 204, 255, 0.15);
+    
     border-color: var(--main-color);
 }
 
@@ -2910,7 +2910,7 @@ select {
 .project-link:hover {
     background: #00b8e6;
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(12, 204, 255, 0.3);
+    
 }
 
 /* Modal Body Scroll */
@@ -2981,7 +2981,7 @@ select {
 
 .project-item:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(12, 204, 255, 0.15);
+    
     border-color: var(--main-color);
 }
 
@@ -3051,7 +3051,7 @@ select {
 .project-link:hover {
     background: #00b8e6;
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(12, 204, 255, 0.3);
+    
 }
 
 
@@ -3163,7 +3163,7 @@ select {
 
 .showcase-item:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(12, 204, 255, 0.15);
+    
     border-color: var(--main-color);
 }
 
@@ -3285,7 +3285,7 @@ select {
 .portfolio-category-box:hover {
     border-color: var(--main-color);
     transform: translateY(-10px);
-    box-shadow: 0 20px 40px rgba(12, 204, 255, 0.2);
+    
 }
 
 .category-icon {
@@ -3354,7 +3354,7 @@ select {
 
 .portfolio-category-box .btn:hover {
     transform: translateY(-3px);
-    box-shadow: 0 10px 20px rgba(12, 204, 255, 0.3);
+    
 }
 
 /* Mobile Responsive Styles */
@@ -3495,7 +3495,7 @@ select {
 .view-btn:hover, .play-btn:hover {
     background: #00b8e6;
     transform: scale(1.1);
-    box-shadow: 0 5px 15px rgba(12, 204, 255, 0.4);
+    
 }
 
 /* Ensure images are properly displayed */
@@ -3586,7 +3586,7 @@ select {
 .control-btn:hover {
     background: var(--main-color);
     transform: scale(1.1);
-    box-shadow: 0 0 15px rgba(12, 204, 255, 0.6);
+    
 }
 
 .control-btn:active {
@@ -3798,7 +3798,7 @@ select {
 .video-controls-enhanced .control-btn:hover {
     background: #00b8e6;
     transform: scale(1.1);
-    box-shadow: 0 0 10px rgba(12, 204, 255, 0.5);
+    
 }
 
 .volume-slider {
@@ -3932,7 +3932,7 @@ select {
 .video-preview .fullscreen-btn:hover {
     background: var(--main-color);
     transform: scale(1.1);
-    box-shadow: 0 0 20px rgba(12, 204, 255, 0.6);
+    
 }
 
 
@@ -4171,7 +4171,7 @@ select {
 .youtube-play-button:hover {
     background: #cc0000;
     transform: scale(1.1);
-    box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
+    
 }
 
 .youtube-play-btn {
@@ -4195,7 +4195,7 @@ select {
 .youtube-play-btn:hover {
     background: #cc0000;
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(255, 0, 0, 0.3);
+    
 }
 
 /* YouTube Modal */
@@ -4333,7 +4333,7 @@ select {
     transform: translateY(-50px);
     transition: transform 0.3s ease;
     border: 1px solid rgba(12, 204, 255, 0.2);
-    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+    
 }
 
 .service-selection-modal.active .service-selection-content {
@@ -4392,7 +4392,7 @@ select {
 .service-option:hover {
     transform: translateY(-5px);
     border-color: var(--main-color);
-    box-shadow: 0 10px 25px rgba(12, 204, 255, 0.2);
+    
 }
 
 .service-icon {
@@ -4574,7 +4574,7 @@ select {
     background: var(--second-bg-color);
     border-radius: 15px;
     overflow: hidden;
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+    
     border: 1px solid rgba(12, 204, 255, 0.3);
 }
 
@@ -4649,7 +4649,7 @@ select {
 .view-btn:hover {
     background: #ff0000ef;
     transform: scale(1.1);
-    box-shadow: 0 5px 15px rgba(12, 204, 255, 0.4);
+    
 }
 
 /* Mobile responsive for image modal */
@@ -4784,7 +4784,7 @@ select {
 .contact-card:hover {
     transform: translateY(-5px);
     border-color: var(--main-color);
-    box-shadow: 0 10px 25px rgba(12, 204, 255, 0.2);
+    
 }
 
 .contact-icon {
@@ -4945,7 +4945,7 @@ s
 
 .submit-btn:hover {
     transform: translateY(-3px);
-    box-shadow: 0 10px 25px rgba(12, 204, 255, 0.4);
+    
 }
 
 /* Mobile Responsive */
@@ -5214,7 +5214,7 @@ section {
 .youtube-play-button:hover {
     background: #ff0000;
     transform: scale(1.1);
-    box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
+    
 }
 
 .youtube-play-btn {
@@ -5238,7 +5238,7 @@ section {
 .youtube-play-btn:hover {
     background: #cc0000;
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(255, 0, 0, 0.3);
+    
 }
 
 /* YouTube Modal */
@@ -5267,7 +5267,7 @@ section {
     background: #000;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+    
 }
 
 .youtube-modal iframe {
@@ -5382,7 +5382,7 @@ section {
 
 .showcase-item:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(12, 204, 255, 0.15);
+    
     border-color: var(--main-color);
 }
 
@@ -5497,7 +5497,7 @@ section {
 .tool-item:hover {
     transform: translateY(-5px) scale(1.05);
     border-color: var(--main-color);
-    box-shadow: 0 15px 30px rgba(12, 204, 255, 0.3);
+    
 }
 
 .tool-logo {
@@ -5759,7 +5759,7 @@ section {
   border-radius: 50%;
   overflow: hidden;
   border: 3px solid var(--main-color, #0ef);
-  box-shadow: 0 0 15px rgba(0, 238, 255, 0.3);
+  
   background: var(--second-bg-color, #1f242d);
 }
 
