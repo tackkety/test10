@@ -1,9 +1,7 @@
 // Service Pricing Configuration
 export const servicePricing = {
     'graphic-design': {
-        name: 'Graphic Design',
-        icon: 'bx bx-pencil',
-        description: 'Professional graphic design services including YouTube thumbnails, Instagram posts, and advertisement designs. High-quality visuals that capture attention and drive engagement.',
+        
         options: {
             'youtube-thumbnail': { name: 'YouTube Thumbnail', single: 15, package: 150, packageCount: 15 },
             'instagram-post': { name: 'Logo-Design', single: 50, package: 350, packageCount: 10 },
@@ -11,9 +9,7 @@ export const servicePricing = {
         }
     },
     'video-editing': {
-        name: 'Video Editing',
-        icon: 'bx bx-video',
-        description: 'Expert video editing for both short-form and long-form content. Perfect for social media, YouTube, commercials, and corporate videos with professional quality.',
+        
         options: {
             'short-form': { 
                 name: 'Short Form Video', 
@@ -32,9 +28,7 @@ export const servicePricing = {
         }
     },
     'unlimited-service': {
-        name: 'Unlimited Service',
-        icon: 'bx bx-infinite',
-        description: 'Unlimited graphic design and video editing subscription with flexible monthly and yearly plans.',
+        
         options: {
             'unlimited': {
                 name: 'Unlimited Design & Video',
@@ -54,9 +48,7 @@ export const servicePricing = {
         }
     },
     'tech-development': {
-        name: 'Tech Development',
-        icon: 'bx bx-code-alt',
-        description: 'Comprehensive technology development services including websites, mobile apps, AI solutions, and security systems. Built with modern technologies and best practices.',
+        
         options: {
             'web-development': {
                 name: 'Web Development',
