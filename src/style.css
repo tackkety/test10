@@ -194,8 +194,7 @@ section {
 .home-img img {
     width: 35vw;
     transition: .100s;
-    border-radius: 50%;
-    animation: floatImage 3s ease-in-out infinite;
+    
 }
 
 @keyframes floatImage {
